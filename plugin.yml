@@ -1,0 +1,9 @@
+name: ChatFormatAPI
+version:  1.0
+main: fr.nashoba24.chatformatapi.ChatFormatAPI
+author: Nashoba24
+commands:
+  chatformatapi:
+    description: Main Command of CFAPI
+    usage: /chatformatapi
+    aliases: [chatfapi, cfapi, chatformat]

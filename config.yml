@@ -1,0 +1,4 @@
+default-format: '{PLAYER_NAME}> {MESSAGE}'
+
+worlds:
+  default: '{PLAYER_NAME}> {MESSAGE}'
